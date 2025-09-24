@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Droply
 
 A simple file storage application built with Next.js, Clerk, Neon, Drizzle, and HeroUI.
@@ -13,10 +13,10 @@ A simple file storage application built with Next.js, Clerk, Neon, Drizzle, and 
 ## Tech Stack
 
 - **Frontend**: Next.js, HeroUI
-- **Authentication**: [Clerk](https://hitesh.ai/Clerk)
+- **Authentication**: [Clerk]
 - **Database**: Neon (PostgreSQL)
 - **ORM**: Drizzle
-- **File Storage**: [ImageKit](https://hitesh.ai/imagekit)
+- **File Storage**: [ImageKit]
 
 ## Getting Started
 
@@ -115,5 +115,5 @@ A simple file storage application built with Next.js, Clerk, Neon, Drizzle, and 
    pnpm start
    ```
 =======
-# Droply---Full-Stack-Cloud-File-Storage-Application-1
->>>>>>> f851e16c125297893589ee85a3e095c0f5460d94
+
+
